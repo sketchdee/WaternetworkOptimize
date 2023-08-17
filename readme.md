@@ -16,4 +16,4 @@
 
     PDF download in jproeng.com: https://www.jproeng.com/CN/article/downloadArticleFile.do?attachType=PDF&id=4002
 
-    Donload from this project:
+    Donload from this project: https://github.com/sketchdee/WaternetworkOptimize/blob/master/再生循环水网络设计在火电厂的应用.pdf
