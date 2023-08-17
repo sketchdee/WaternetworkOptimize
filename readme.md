@@ -10,7 +10,7 @@
 
 -   Plot.mlx is matlab file type,plot the tree view figure.
 
--   The research paper online in chinese:
+-   The research paper in chinese:
 
     Online browsing: https://www.jproeng.com/article/2023/1009-606X/1009-606X-2023-23-4-637.shtml
 
